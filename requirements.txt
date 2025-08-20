@@ -1,3 +1,4 @@
 mlflow
 mlflow[extras]
 sqlalchemy
+dvc-s3

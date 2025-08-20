@@ -1,7 +1,10 @@
 [core]
-    remote = dagshub
+    remote = origin
 ['remote "dagshub"']
-    url = https://dagshub.com/larawehbe/mlflow-dvc-example
+    url = https://dagshub.com/larawehbe/mlflow-dvc-example.dvc
     auth = basic
     user = larawehbe
     password = a2d7811b052e1774298aaa5bfcbfcc4efd47fe8d
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/larawehbe/mlflow-dvc-example.s3
