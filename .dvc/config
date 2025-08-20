@@ -1,5 +1,5 @@
 [core]
-    remote = origin
+    remote = dagshub
 ['remote "dagshub"']
     url = https://dagshub.com/larawehbe/mlflow-dvc-example.dvc
     auth = basic
