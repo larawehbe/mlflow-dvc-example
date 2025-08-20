@@ -2,3 +2,6 @@
     remote = dagshub
 ['remote "dagshub"']
     url = https://dagshub.com/larawehbe/mlflow-dvc-example
+    auth = basic
+    user = larawehbe
+    password = a2d7811b052e1774298aaa5bfcbfcc4efd47fe8d
